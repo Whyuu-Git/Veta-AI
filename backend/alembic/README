@@ -1,0 +1,2 @@
+Folder migration database (Alembic).
+Skema awal sudah ada di database_schema.sql - nanti dikonversi jadi migration pertama di sini.
